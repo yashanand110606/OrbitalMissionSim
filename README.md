@@ -108,5 +108,5 @@ Focus areas include:
 * Aerospace software architecture
 
 ##  Author
-
+YASH ANAND
 Physics student focused on orbital simulation, numerical physics software, and space systems engineering.
