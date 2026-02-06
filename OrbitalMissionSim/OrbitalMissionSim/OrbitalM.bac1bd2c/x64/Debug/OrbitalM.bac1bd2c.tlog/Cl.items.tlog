@@ -1,0 +1,8 @@
+C:\yash\OrbitalMissionSim\OrbitalMissionSim\main.cpp;C:\yash\OrbitalMissionSim\OrbitalMissionSim\OrbitalM.bac1bd2c\x64\Debug\main.obj
+C:\yash\OrbitalMissionSim\OrbitalMissionSim\Mission\PassPredictor.cpp;C:\yash\OrbitalMissionSim\OrbitalMissionSim\OrbitalM.bac1bd2c\x64\Debug\PassPredictor.obj
+C:\yash\OrbitalMissionSim\OrbitalMissionSim\Propagation\RK4J2.cpp;C:\yash\OrbitalMissionSim\OrbitalMissionSim\OrbitalM.bac1bd2c\x64\Debug\RK4J2.obj
+C:\yash\OrbitalMissionSim\OrbitalMissionSim\SGP4\SGP4Wrapper.cpp;C:\yash\OrbitalMissionSim\OrbitalMissionSim\OrbitalM.bac1bd2c\x64\Debug\SGP4Wrapper.obj
+C:\yash\OrbitalMissionSim\OrbitalMissionSim\Simulation\Constellation.cpp;C:\yash\OrbitalMissionSim\OrbitalMissionSim\OrbitalM.bac1bd2c\x64\Debug\Constellation.obj
+C:\yash\OrbitalMissionSim\OrbitalMissionSim\Simulation\Satellite.cpp;C:\yash\OrbitalMissionSim\OrbitalMissionSim\OrbitalM.bac1bd2c\x64\Debug\Satellite.obj
+C:\yash\OrbitalMissionSim\OrbitalMissionSim\Time\TimeUtils.cpp;C:\yash\OrbitalMissionSim\OrbitalMissionSim\OrbitalM.bac1bd2c\x64\Debug\TimeUtils.obj
+C:\yash\OrbitalMissionSim\OrbitalMissionSim\Visualization\Renderer.cpp;C:\yash\OrbitalMissionSim\OrbitalMissionSim\OrbitalM.bac1bd2c\x64\Debug\Renderer.obj

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OrbitalMissionSim.vcxproj" Id="bac1bd2c-a9e3-470f-8d95-8d19afb57aee" />
+</Solution>

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Time">
+      <UniqueIdentifier>{f2e24888-8107-4535-9ef7-20c6a2726067}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Propagation">
+      <UniqueIdentifier>{bc9197f9-5bda-4570-9422-21507da8aafd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Simulation">
+      <UniqueIdentifier>{c274d418-15f1-43c7-8cf4-8a4fce0c2084}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mission">
+      <UniqueIdentifier>{917cb005-944b-48eb-9155-1431e5041390}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Visualization">
+      <UniqueIdentifier>{59d73d84-740c-456e-a321-6fe98b1f1cdf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SGP4">
+      <UniqueIdentifier>{e8413e5b-caac-4674-9d1a-be5339482753}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core">
+      <UniqueIdentifier>{e9238085-d494-4c82-a948-715a424ff4a2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Core\Constants.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Vec3.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Mission\GroundStation.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Mission\PassPredictor.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Propagation\RK4J2.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SGP4\SGP4Wrapper.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Simulation\Constellation.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Simulation\Satellite.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Time\TimeUtils.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Visualization\Renderer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SGP4\SGP4\TLE.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Mission\PassPredictor.cpp">
+      <Filter>Mission</Filter>
+    </ClCompile>
+    <ClCompile Include="Propagation\RK4J2.cpp">
+      <Filter>Propagation</Filter>
+    </ClCompile>
+    <ClCompile Include="SGP4\SGP4Wrapper.cpp">
+      <Filter>SGP4</Filter>
+    </ClCompile>
+    <ClCompile Include="Simulation\Constellation.cpp">
+      <Filter>Simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="Simulation\Satellite.cpp">
+      <Filter>Simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="Time\TimeUtils.cpp">
+      <Filter>Time</Filter>
+    </ClCompile>
+    <ClCompile Include="Visualization\Renderer.cpp">
+      <Filter>Visualization</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
